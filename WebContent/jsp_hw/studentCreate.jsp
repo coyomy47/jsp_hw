@@ -73,7 +73,7 @@ if (request.getMethod().equals("POST")) {
 <form method="post">
   <h1>학생등록 </h1>
   <div>
-    <label>Id</label>
+    <label>ID</label>
     <input type="text" class="text" name="id" value="<%= id %>" />
   </div>
   <div>

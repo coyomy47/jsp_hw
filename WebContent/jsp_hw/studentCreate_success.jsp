@@ -24,7 +24,7 @@ Student student = (Student)session.getAttribute("student");
 
 <table>
   <tr>
-    <td>id</td>
+    <td>ID</td>
     <td><%= student.getId() %></td>
   </tr>
   <tr>
