@@ -21,10 +21,10 @@ if(s1==null){
 
 %>
 <div>
-	<<form method="get">
+	<form method="get">
 	<div>
-	<input type="text" name="form1" value="<%=result%>"/>
-	<button type "submit" value="+">+++</button>
+	<input type="text" name="form1" value="<%= result %>"/>
+	<button type "submit" value="+">++</button>
 </div>
 	
 </body>
