@@ -5,8 +5,8 @@
 <head>
 <meta charset="UTF-8">
 <style>
-    table { border-collapse: collapse; }
-    td { padding: 5px; border: solid 1px gray; }
+  
+    td {border: solid 1px gray; }
 </style>
 
 <title>Insert title here</title>

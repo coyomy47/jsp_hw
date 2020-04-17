@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <style>
     table { border-collapse: collapse; }
-    td { padding: 5px; border: solid 1px gray; }
+    td {padding:5px;  border: solid 1px gray; }
 </style>
 </head>
 <body>
