@@ -14,18 +14,18 @@ if(s1==null){
 	s1="0";
 	result=Integer.parseInt(s1);
 }else {
-	result=Integer.parseInt(s1);
-	result=result+1;
+	result=Integer.parseInt(s1)+1;
+	
 	
 }
 
 %>
-<div>
+
 	<form method="get">
-	<div>
+
 	<input type="text" name="form1" value="<%= result %>"/>
 	<button type "submit" value="+">++</button>
-</div>
+
 	
 </body>
 </html>
