@@ -14,7 +14,7 @@ if(s1==null){
 	s1="0";
 	result=Integer.parseInt(s1);
 }else {
-	result=Integer.parseInt(s1)+1;
+	result=Integer.parseInt(s1)+1;//확인
 	
 	
 }
